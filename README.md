@@ -36,3 +36,4 @@
 - 如果要设置单一文章 请输入完整网址
 - 留空则全站屏蔽微信QQ浏览器访问
 
+![微信QQ防红插件截图](https://raw.githubusercontent.com/imrelax/wxqq-jump/refs/heads/main/659d06cb80f3c.jpg)
